@@ -1,0 +1,2 @@
+a. Create a program that asks a user to input a number between 1 and 10, then check if the number is higher or lower than 5.
+    If its higher display "Higher", if its lower display "Lower"
