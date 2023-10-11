@@ -1,5 +1,5 @@
-# Write a python code that asks a user to enter two integers and
-# multiply them together. Print the answer
+# Write a python code that asks a user to enter two integers and multiply them together.
+# Print the answer
 
 num1 = int(input("Enter the first integer: "))
 num2 = int(input("Enter the second integer: "))
