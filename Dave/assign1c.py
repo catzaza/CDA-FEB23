@@ -1,6 +1,6 @@
 # Write a python code that will get 3 IP addresses from a user
 
-# Initialize an empty list to store the IP addresses
+# Create an empty list to store the IP addresses
 ip_addresses = []
 
 # Ask the user for 3 IP addresses
