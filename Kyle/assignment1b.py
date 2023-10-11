@@ -1,3 +1,4 @@
+# This assignemt will display the items wanted for purchasing
 print('What would you like to purchase, dear sir/madam?')
 
 item_1 = input("Item 1: ")
