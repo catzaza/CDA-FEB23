@@ -2,21 +2,11 @@ a.	Write a python code that asks a user to enter two integers and multiply them 
 b.	Write a python code that will get input from a user asking for 5 items they would like to buy from the web
 c.	Write a python code that will get 3 IP addresses from a user
 d.	Write a python input program that will ask new employees for their username, password, and email. Print the output.
-e.	Complete the following table by writing the value of each expression in the Value 
-column.
-Expression                                                                                                Value
-6 + 3 * 5                                                                                       ______
-12 / 2 – 4                                                                                     ______
-9 + 14 * 2 – 6                                                                               ______
-(6 + 2) * 3                                                                                     ______
-14 / (11 − 4)                                                                                 ______
-9	+ 12 * (8 − 3)                                                                            ______
-
-f.	Write a program that displays the following information:
+e.	Write a program that displays the following information:
 •	Your name
 •	Your address, with city, state, and zip
 •	Your telephone numbers
 •	Your dream majors
 
-g.	A company has determined that its annual profit is typically 23 percent of total sales. Write a program that asks the user to enter the projected amount of total sales, and then displays the profit that will be made from that amount.
-h.	A customer in a store is purchasing five items. Write a program that asks for the price of each item, and then displays the subtotal of the sale, the amount of sales tax, and the total. Assume the sales tax is 7 percent.
+f.	A company has determined that its annual profit is typically 23 percent of total sales. Write a program that asks the user to enter the projected amount of total sales, and then displays the profit that will be made from that amount.
+g.	A customer in a store is purchasing five items. Write a program that asks for the price of each item, and then displays the subtotal of the sale, the amount of sales tax, and the total. Assume the sales tax is 7 percent.
