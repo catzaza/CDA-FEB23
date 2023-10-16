@@ -1,0 +1,17 @@
+# code that asks the user for the price of five items, displays the subtotal of the sale, sales tax (7%), and the total.
+
+print("Please enter the prices for your items below: ")
+
+item1 = float(input("Enter the price for Item 1: "))
+item2 = float(input("Enter the price for Item 2: "))
+item3 = float(input("Enter the price for Item 3: "))
+item4 = float(input("Enter the price for Item 4: "))
+item5 = float(input("Enter the price for Item 5: "))
+
+subtotal = float(item1 + item2 + item3 + item4 + item5)
+print("Your Subtotal is :", subtotal)
+
+sales_tax = float(subtotal * 0.7)
+
+total = float(subtotal + sales_tax)
+print("Your Total is: ", total)
