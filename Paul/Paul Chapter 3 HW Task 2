@@ -1,0 +1,5 @@
+b = float(input("Enter your number: "))
+if b < 10:
+	print("Too small")
+elif b > 10:
+	print("Perfect fit")
