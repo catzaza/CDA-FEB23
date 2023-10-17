@@ -1,0 +1,6 @@
+a = float(input("Enter a number: "))
+
+if a == 1:
+    print("a is equal to 1")
+elif a != 1:
+    print("a is not equal to 1")
