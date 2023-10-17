@@ -1,0 +1,5 @@
+speed = float(input("Enter your speed: "))
+if speed < 50:
+    print("Speed in limit")
+elif speed > 50:
+    print("Speed should be checked")
