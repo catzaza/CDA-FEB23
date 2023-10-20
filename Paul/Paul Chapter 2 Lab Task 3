@@ -1,0 +1,4 @@
+miles = float(input("Enter miles driven: "))
+gas = float(input("Enter gas used: "))
+mpg = miles / gas
+print("Your miles per gallon is:", mpg)

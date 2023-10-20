@@ -1,0 +1,7 @@
+# ask the user to input projected total annual sales, calculate profits, and display the results
+
+total_sales = float(input("Enter projected total annual sales: "))
+
+profit = total_sales * 0.23
+
+print("Your expected annual profits are: ", profit)
